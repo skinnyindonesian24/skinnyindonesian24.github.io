@@ -8963,7 +8963,9 @@ nav .logo img {
 }
 
 .section-home--video .my-player {
-  height: 600px;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
 }
 
 .section-home--faq {
